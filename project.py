@@ -14,7 +14,7 @@ print("Data uploaded successfully!")
 conn = mysql.connector.connect(
     host="127.0.0.1",
     user="root",
-    password="1111",
+    password="your password",
     database="SALES_ANALYSIS"
 )
 
