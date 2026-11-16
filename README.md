@@ -3,7 +3,7 @@
 
 > Cleaning and feature engineering in Python → analysis with SQL → interactive Power BI dashboard → business insights.
 
-("dashboard.png")
+![Dashboard](dashboard.png)
 
 ---
 
