@@ -133,7 +133,7 @@ data["age_group"] = pd.qcut(data["age"], q=4, labels=labels)
 
 ## 🗄️ SQL Analysis
 
-File: [`sql/queries.sql`](sales_analysis/queries.sql) — 10 business questions answered on the `SALES` table.
+File: [`sql/queries.sql`](sales_analysis/New_Query_1793866587960.sql) — 10 business questions answered on the `SALES` table.
 
 | # | Business question | SQL concepts used | Result |
 |---|---|---|---|
