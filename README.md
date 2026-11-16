@@ -173,7 +173,7 @@ WHERE top_product <= 3;
 
 File: [`powerbi/youtube.pbix`](powerbi/youtube.pbix) — **Customer Behaviour Dashboard** (connected to the MySQL `SALES` table).
 
-![Dashboard]("dashboard.png")
+![Dashboard](dashboard.png)
 
 **KPI cards**
 - Average Review Rating
