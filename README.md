@@ -106,7 +106,7 @@ The workflow follows a real-world analyst pipeline:
 
 ## 🧹 Data Cleaning & Feature Engineering (Python)
 
-Script: [`python/project.py`](python/project.py)
+Script: [`python/project.py`](project.py)
 
 | Step | What was done | Why |
 |---|---|---|
@@ -133,7 +133,7 @@ data["age_group"] = pd.qcut(data["age"], q=4, labels=labels)
 
 ## 🗄️ SQL Analysis
 
-File: [`sql/queries.sql`](sql/queries.sql) — 10 business questions answered on the `SALES` table.
+File: [`sql/queries.sql`](sales_analysis/queries.sql) — 10 business questions answered on the `SALES` table.
 
 | # | Business question | SQL concepts used | Result |
 |---|---|---|---|
