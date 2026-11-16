@@ -3,7 +3,7 @@
 
 > Cleaning and feature engineering in Python → analysis with SQL → interactive Power BI dashboard → business insights.
 
-![Dashboard Preview](C:\Users\nandani\Downloads\files.zip)
+![Dashboard Preview]("C:\Users\nandani\Downloads\files\dashboard.png")
 
 ---
 
@@ -173,7 +173,7 @@ WHERE top_product <= 3;
 
 File: [`powerbi/youtube.pbix`](powerbi/youtube.pbix) — **Customer Behaviour Dashboard** (connected to the MySQL `SALES` table).
 
-![Dashboard](images/dashboard.png)
+![Dashboard]("C:\Users\nandani\Downloads\files\dashboard.png")
 
 **KPI cards**
 - Average Review Rating
