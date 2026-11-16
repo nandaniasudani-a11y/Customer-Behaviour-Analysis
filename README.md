@@ -171,7 +171,7 @@ WHERE top_product <= 3;
 
 ## 📊 Power BI Dashboard
 
-File: [`powerbi/youtube.pbix`](powerbi/youtube.pbix) — **Customer Behaviour Dashboard** (connected to the MySQL `SALES` table).
+File: [`powerbi/youtube.pbix`](Customer Behaviour Analysis.pbix) — **Customer Behaviour Dashboard** (connected to the MySQL `SALES` table).
 
 ![Dashboard](dashboard.png)
 
